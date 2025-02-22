@@ -52,7 +52,7 @@ li {
   margin: 0.4rem 0; }
 
 *:target {
-  background: yellow; }
+  background: rgb(31, 136, 110); }
 
 .w {
   max-width: 640px;
