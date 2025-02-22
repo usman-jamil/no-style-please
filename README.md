@@ -1,4 +1,4 @@
-![Taqwa Blog Logo](online-study.svg)
+![Taqwa Blog Logo](quran.svg)
 
 # Taqwa Blog
 
