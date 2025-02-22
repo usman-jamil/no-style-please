@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Surah Maoon"
+title: Surah Maoon
 category: surah
 ---
 
