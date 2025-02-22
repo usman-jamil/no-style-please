@@ -1,3 +1,5 @@
+![Taqwa Blog Logo](online-study.svg)
+
 # Taqwa Blog
 
 Welcome to **Taqwa Blog** – a personal Jekyll site dedicated to storing my notes and reflections on the Quran. This repository serves as the source for all content hosted on the custom domain [taqwa.blog](https://taqwa.blog).
