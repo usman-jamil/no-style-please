@@ -23,7 +23,7 @@ Although many of the religious values discussed in this article apply across var
 ![Purpose Diagram]({{ site.baseurl }}/assets/img/purpose.png)
 
 ### Nihilism
-Nihilism, on the other hand, is the viewpoint that life lacks inherent meaning, purpose, or value. It often leads to the conclusion that, in the grand scheme, nothing really matters—whether that’s in terms of moral values, religious beliefs, or societal structures. This perspective can sometimes result in a sense of despair or indifference toward traditional norms.
+Nihilism is the viewpoint that life lacks inherent meaning, purpose, or value. It often leads to the conclusion that, in the grand scheme, nothing really matters—whether that’s in terms of moral values, religious beliefs, or societal structures. This perspective can sometimes result in a sense of despair or indifference toward traditional norms.
 
 ### Existentialism
 Existentialism is a philosophical movement that focuses on individual freedom, responsibility, and the search for meaning in an indifferent—or even absurd—universe. It holds that since there is no predetermined essence or inherent purpose to life, individuals must create their own meaning through their choices and actions. Thinkers like Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus have explored how confronting life’s inherent uncertainty and freedom can lead to authentic living.
