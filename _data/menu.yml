@@ -22,3 +22,10 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+  
+  - title: Thoughts
+    post_list:
+      category: thoughts
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
