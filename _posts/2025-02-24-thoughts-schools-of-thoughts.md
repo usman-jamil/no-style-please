@@ -18,8 +18,6 @@ Although many of the religious values discussed in this article apply across var
  - **Spirituality** – which seeks a deeper inner connection  
  - **Religion** – offering a holistic, divine framework of meaning
 
-This version clarifies the contrast and smooths out the sentence structure.
-
 ---
 
 ![Purpose Diagram]({{ site.baseurl }}/assets/img/purpose.png)
