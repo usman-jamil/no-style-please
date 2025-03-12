@@ -6,6 +6,8 @@ category: surah
 
 ### 1. Overview of Surah An‑Nasr
 
+[Read: Surah An‑Nasr](https://quran.com/en/an-nasr)
+
 **Sahih International Translation:**
 
 > “When the victory of Allah has come and the conquest,  

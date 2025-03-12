@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Surah Maoon
+title: Surah Al-Maʿūn
 category: surah
 ---
 
 ### 1. Overview of Surah Al-Maʿūn
+
+[Read: Surah Al-Maʿūn](https://quran.com/en/al-maun)
 
 **Surah Al-Maʿūn** (Arabic: الماعون) is the 107th chapter of the Qur’an and consists of 7 short verses. The title “Al-Maʿūn” is often translated as “Small Kindnesses” or “Assistance,” referring to the minor yet essential acts of benevolence and social responsibility that underpin genuine faith.
 
